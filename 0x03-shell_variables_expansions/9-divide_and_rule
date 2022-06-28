@@ -1,2 +1,4 @@
 #!/bin/bash
-echo $((POWER/DIVIE))
+POWER= 4
+DIVIDE= 2
+echo $((POWER/DIVIDE))
